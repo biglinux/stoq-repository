@@ -1,0 +1,5 @@
+312e04a0db15f50d56fc166b9f7bebdd  DEBIAN/control
+2cdee42c2e985d0abcb305cca2270295  DEBIAN/postinst
+d41d8cd98f00b204e9800998ecf8427e  DEBIAN/md5sums
+e15f7a9f208fb20f438702406956281a  etc/apt/sources.list.d/stoq-dev.list
+392b94ee28099b0aba5d8ce18a4830f4  etc/apt/trusted.gpg.d/stoq-dev.asc
